@@ -1,0 +1,4 @@
+../Core/Src/microros_transports/udp_transport.c:25:6:cubemx_transport_open_udp	32	static
+../Core/Src/microros_transports/udp_transport.c:40:6:cubemx_transport_close_udp	16	static
+../Core/Src/microros_transports/udp_transport.c:49:8:cubemx_transport_write_udp	64	static
+../Core/Src/microros_transports/udp_transport.c:66:8:cubemx_transport_read_udp	64	static
